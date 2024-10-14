@@ -186,9 +186,6 @@
   <h3>Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris0150&theme=tokyonight&layout=compact" alt="Top Languages">
   
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris0150&show_icons=true&theme=tokyonight" alt="GitHub Stats of Chris0150">
-  
   <h3>GitHub Streak</h3>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Chris0150&theme=tokyonight"
